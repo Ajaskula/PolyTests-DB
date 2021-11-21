@@ -1,5 +1,10 @@
 # Baza danych testów wielomianów
 
+## Ważne informacje
+
+1. Plik 'testuj.sh' odwzorowuje najlepiej sposób testowania przez ćwiczeniowców.
+2. Plik 'szybciorem.sh' nie uruchamia valgrinda podczas testów, co powoduje że wykonują się one 1000x szybciej. 
+
 ## Sposób uruchamiania
 
 1. Umieśić swój program w pliku project.c (jeżeli go nie ma, to należy taki utworzyć i tam wkleić)
